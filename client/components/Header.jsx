@@ -2,7 +2,7 @@ import React from 'react';
 
 const Header = (props) => (
   <header>
-    <h1 id="main-title" title="Dead Simple" style={{color: 'black'}}>Giftease</h1>
+    <h1 id="main-title" title="Dead Simple">Giftease</h1>
   </header>
 );
 
